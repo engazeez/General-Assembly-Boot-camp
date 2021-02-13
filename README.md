@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Local Traffic, Statistical Summaries and Inference
+## Local Traffic, Statistical Summaries and Inference
 
 ### Overview
 This was the first project I worked in data science journey. I applied essentials skills that I learnt last weeks, I covered the following:
